@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/cyberacademyuz/CyberAcademy.uz/main/background.png)
+![MasterHead](https://i.ibb.co/9VQfc9H/background-1.png)
 <h1 align="center">Assalomu alaykum 👋 Cyber Academy github sahifasiga hush kelibsiz</h1>
 <h3 align="center">O'zbekistonda IT, Kiberxavfsizlik va Open Source loyihalarni rivojlantirishga o'z xissangizni qo'shing</h3>
 <img align="right" alt="Logo" width="400" src="https://i.ibb.co/FbKcyjB/logo.png">
