@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/9VQfc9H/background-1.png)
+![MasterHead](https://hackmag.com/wp-content/uploads/2022/12/62cdc0dc38031b519f901a0c_end-to-end-testing.jpg)
 <h1 align="center">Assalomu alaykum 👋 Cyber Academy github sahifasiga hush kelibsiz</h1>
 <h3 align="center">O'zbekistonda IT, Kiberxavfsizlik va Open Source loyihalarni rivojlantirishga o'z xissangizni qo'shing</h3>
 <img align="right" alt="Logo" width="400" src="https://i.ibb.co/FbKcyjB/logo.png">
