@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/cyberacademyuz/CyberAcademy.uz/main/background.png)
 <h1 align="center">Assalomu alaykum 👋 Cyber Academy github sahifasiga hush kelibsiz</h1>
 <h3 align="center">O'zbekistonda IT, Kiberxavfsizlik va Open Source loyihalarni rivojlantirishga o'z xissangizni qo'shing</h3>
-<img align="right" alt="Logo" width="400" src="https://github.com/cyberacademyuz/CyberAcademy.uz/blob/main/logo.png">
+<img align="right" alt="Logo" width="400" src="https://i.ibb.co/FbKcyjB/logo.png">
 <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css" integrity="sha384-ekOryaXPbeCpWQNxMwSWVvQ0+1VrStoPJq54shlYhR8HzQgig1v5fas6YgOqLoKz" crossorigin="anonymous">
 
 ### Bizga qo'shiling:
